@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/devangbhuva97/semantic-release/compare/v1.1.0...v1.1.1) (2020-08-24)
+
+
+### Performance Improvements
+
+* add readme ([c9e157a](https://github.com/devangbhuva97/semantic-release/commit/c9e157ae940b217a863ed5151be23d9b16256c45))
+* add readme ([81c0c7a](https://github.com/devangbhuva97/semantic-release/commit/81c0c7a4d63fe94dae6430a7ae0628568bcbca2c))
+
 # [1.1.0](https://github.com/devangbhuva97/semantic-release/compare/v1.0.0...v1.1.0) (2020-08-24)
 
 

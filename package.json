@@ -1,6 +1,6 @@
 {
   "name": "semantic-release",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Semantic Release Demo",
   "main": "index.js",
   "license": "MIT",
