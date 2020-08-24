@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/devangbhuva97/semantic-release/compare/v1.1.1...v1.1.2) (2020-08-24)
+
+
+### Bug Fixes
+
+* testing fix ([5b4b727](https://github.com/devangbhuva97/semantic-release/commit/5b4b727147ea0fd477e860a02e55e32143272c4f))
+
 ## [1.1.1](https://github.com/devangbhuva97/semantic-release/compare/v1.1.0...v1.1.1) (2020-08-24)
 
 
